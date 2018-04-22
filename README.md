@@ -1,0 +1,2 @@
+# 此项目主要用的javascript原生，通过对javascript的封装类似于jq的类名，所以调用方法也跟jq类似
+后台主要用的php，完成了ajax的交互
